@@ -1,11 +1,11 @@
-# Image Generation: Diffusion Models & ComfyUI
+# Génération d’images : Modèles de diffusion & ComfyUI
 
-This repository includes two educational PDF documents focused on image generation using modern diffusion models:
+Ce dépôt propose deux documents pédagogiques au format PDF portant sur la génération d’images à l’aide de modèles de diffusion modernes :
 
-1. **Diffusion Models – A Theoretical Introduction**  
-   A concise yet thorough course that covers the fundamentals of diffusion models, including forward/reverse processes, denoising, and model training.
+1. **Modèles de diffusion – Introduction théorique**  
+   Un cours présentant les principes de base des modèles de diffusion : *forward/reverse processes*, débruitage, entraînement, etc.
 
-2. **Hands-On with ComfyUI – Practical Lab**  
-   A guided lab session designed to explore image generation using the ComfyUI interface. It walks through real-world workflows, including prompt design, model selection, and visual experimentation.
+2. **TP avec ComfyUI – Mise en pratique**  
+   Un travail pratique guidé pour expérimenter la génération d’images via l’interface ComfyUI. Le TP explore les workflows courants : prompts, choix de modèles, visualisation des résultats...
 
-These resources aim to bridge theory and practice, and are suited for learners, hobbyists, and AI practitioners alike.
+Ces documents visent à faire le lien entre théorie et pratique.
